@@ -2,7 +2,7 @@
 
 ## Mac in color
 
-![](https://raw.githubusercontent.com/mljar/data-science-cheat-sheets/main/jupyter-notebook-shortcuts/media/mac-color.png)
+![](https://raw.githubusercontent.com/mljar/data-science-cheat-sheets/main/jupyter-notebook-shortcuts/media/mac-color-v2.png)
 
 ## Mac in gray
 
